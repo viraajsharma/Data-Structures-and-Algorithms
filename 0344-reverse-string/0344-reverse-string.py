@@ -6,5 +6,4 @@ class Solution(object):
             s[left] , s[right] = s[right],s[left]
             left = left +1
             right = right -1
-        return s
         
