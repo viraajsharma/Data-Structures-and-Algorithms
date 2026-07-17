@@ -20,7 +20,6 @@ class MinStack(object):
 
     def top(self):
         return self.stack[-1]
-        return self.min_stack[-1]
 
     def getMin(self):
         return self.min_stack[-1]
