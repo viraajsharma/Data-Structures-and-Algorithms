@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Hash Table
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
