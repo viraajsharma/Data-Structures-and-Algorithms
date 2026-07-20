@@ -6,7 +6,7 @@ class RecentCounter(object):
 
     def ping(self, t):
         self.queue.append(t)
-        while self.queue[0] < t-3000:
+        while len(self.queue)> 0 and self.queue[0] < t-3000:
             self.queue.popleft()
         return len(self.queue)
         
