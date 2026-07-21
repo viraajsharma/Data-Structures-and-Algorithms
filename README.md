@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1929-concatenation-of-array](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
