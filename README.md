@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -133,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/viraajsharma/Data-Structures-and-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
